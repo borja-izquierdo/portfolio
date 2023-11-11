@@ -1,1 +1,4 @@
-# Finance projects in Python
+## Python
+
+## FINANCE
+Logarithmic Price Scale Indices Returns Comparison (GSPC,N225,N100)
