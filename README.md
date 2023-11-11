@@ -1,2 +1,1 @@
-# finance
-Finance
+# Finance projects in Python
