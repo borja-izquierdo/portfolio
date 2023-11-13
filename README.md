@@ -7,4 +7,4 @@
 -Logarithmic Price Scale Indices Returns Comparison (GSPC, N225, N100)
 
 
--Prophet - Forecasting stock price
+-Prophet - Forecasting stock prices
