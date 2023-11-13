@@ -6,3 +6,5 @@
 
 -Logarithmic Price Scale Indices Returns Comparison (GSPC, N225, N100)
 
+
+-Prophet - Forecast stock price
