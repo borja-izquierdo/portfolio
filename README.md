@@ -8,3 +8,6 @@
 
 
 -Prophet - Forecasting stock prices
+
+
+-European options
