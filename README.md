@@ -10,4 +10,4 @@
 -Prophet - Forecasting stock prices
 
 
--European options
+-Monte Carlo valuation of European call option in Black-Scholes-Merton model
