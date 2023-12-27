@@ -1,6 +1,4 @@
-## Python
-
-## Finance
+## PyFinance
 -Value at Risk (VaR): Monte Carlo Method
 
 
