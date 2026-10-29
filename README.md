@@ -12,5 +12,5 @@ MSc thesis, revised and extended. Gradient boosting with purged walk-forward cro
 
 - [Value at Risk (VaR): Monte Carlo method](Finance/Value_at_Risk_(VaR)_Monte_Carlo.ipynb)
 - [Log-scale return comparison (AMD, NVDA, QCOM)](Finance/Logarithmic_Price_Scale_Indices_Returns_Comparison.ipynb)
-- [Prophet: forecasting stock prices](Finance/Prophet_PYPL_Forecasting.ipynb)
+- [Prophet: forecasting stock prices (just for ML purposes)](Finance/Prophet_PYPL_Forecasting.ipynb)
 - [Monte Carlo valuation of a European call option (Black–Scholes–Merton)](Finance/Monte_Carlo_valuation_of_European_call_option.ipynb)
